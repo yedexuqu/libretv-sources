@@ -10,8 +10,8 @@
     { "name": "闪电┃采集", "url": "https://sdzyapi.com/api.php/provide/vod" }
   ],
   "liveSources": [
-    { "name": "Guovin·综合", "url": "https://ghproxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u" },
-    { "name": "suxuang·IPv4", "url": "https://ghproxy.net/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u" },
-    { "name": "YanG·综合", "url": "https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u" }
+    { "name": "vbskycn·IPv4", "url": "https://ghproxy.net/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.m3u" },
+    { "name": "YanG·综合", "url": "https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u" },
+    { "name": "suxuang·IPv4", "url": "https://ghproxy.net/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u" }
   ]
 }
