@@ -1,0 +1,15 @@
+{
+  "name": "自选源列表",
+  "version": 2,
+  "sources": [
+    { "name": "百度┃采集", "url": "https://api.apibdzy.com/api.php/provide/vod" },
+    { "name": "暴風┃采集", "url": "https://bfzyapi.com/api.php/provide/vod" },
+    { "name": "索尼┃采集", "url": "https://suoniapi.com/api.php/provide/vod" },
+    { "name": "新浪┃采集", "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod" }
+  ],
+  "liveSources": [
+    { "name": "Guovin·综合", "url": "https://ghproxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u" },
+    { "name": "suxuang·IPv4", "url": "https://ghproxy.net/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u" },
+    { "name": "YanG·综合", "url": "https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u" }
+  ]
+}
